@@ -19,6 +19,11 @@ package com.efeakil.solid.l;
  *         The Liskov Substitution Principle asserts that any implementation of
  *         a super-type should be replaceable with its sub-type, and the program
  *         should not change its behavior.
+ *
+ * 
+ * 
+ * 
+ * 
  */
 public class LiskovSubstitutionPrinciple {
 
