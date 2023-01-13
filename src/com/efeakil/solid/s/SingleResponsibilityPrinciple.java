@@ -1,6 +1,6 @@
 package com.efeakil.solid.s;
 
-public class SingleMain {
+public class SingleResponsibilityPrinciple {
 
 	public static void main(String[] args) {
 		

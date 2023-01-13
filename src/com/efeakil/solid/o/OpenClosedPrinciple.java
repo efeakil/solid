@@ -32,7 +32,7 @@ package com.efeakil.solid.o;
  *         idea behind the OCP.
  */
 
-public class OpenClosedMain {
+public class OpenClosedPrinciple {
 
 	public static void main(String[] args) {
 
